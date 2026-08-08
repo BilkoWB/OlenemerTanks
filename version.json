@@ -1,24 +1,36 @@
 {
-  "version": "2.2.0",
+  "version": "2.3.0",
   "download_url": "https://forblitz.ru/modifications/other/olenemer-xvm-extended-visualization-mod/23398",
-  "update_url": "https://raw.githubusercontent.com/Bilko1488/OlenemerTanks/main/Olenemer-2.2.0.exe",
-  "update_sha256": "9cda673127e50740699fbbaad68332bd9cbad94bbf261656caa5ea20b4d39021",
+  "update_url": "https://raw.githubusercontent.com/Bilko1488/OlenemerTanks/main/Olenemer-2.3.0.exe",
+  "update_sha256": "59098169e3aba776111a66f870d127f580bdaac486927858adc2834bf4d94735",
   "changelog_ru": "",
   "changelog_en": "",
   "changelog_uk": "",
   "nick_replacements": {
     "wg": [
-      { "original": "ABepuH", "replacement": "Упоритесь в меня" },
-      { "original": "ex_iibris", "replacement": "FloXeR" }
+      {
+        "original": "ABepuH",
+        "replacement": "Упоритесь в меня"
+      },
+      {
+        "original": "ex_iibris",
+        "replacement": "FloXeR"
+      }
     ],
     "lesta": [
-      { "original": "3XO_TEPPOPA", "replacement": "Мессенжер MAX" },
-      { "original": "Perfect_M1nd", "replacement": "Есть пробитие" }
+      {
+        "original": "3XO_TEPPOPA",
+        "replacement": "Мессенжер MAX"
+      },
+      {
+        "original": "Perfect_M1nd",
+        "replacement": "Есть пробитие"
+      }
     ]
   },
   "blocked_users": {
     "wg": [],
     "lesta": []
   },
-  "released": "2026-07-30T14:40:20Z"
+  "released": "2026-08-08T20:03:33Z"
 }
