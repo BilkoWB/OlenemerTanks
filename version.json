@@ -8,24 +8,13 @@
   "changelog_uk": "",
   "nick_replacements": {
     "wg": [
-      {
-        "original": "ABepuH",
-        "replacement": "Упоритесь в меня"
-      },
-      {
-        "original": "ex_iibris",
-        "replacement": "FloXeR"
-      }
+      { "original": "ex_iibris", "replacement": "FloXeR" },
+      { "original": "Harington_Blitz", "replacement": "Писюн 3 см" },
+      { "original": "ABePuH", "replacement": "Петух" }
     ],
     "lesta": [
-      {
-        "original": "3XO_TEPPOPA",
-        "replacement": "Мессенжер MAX"
-      },
-      {
-        "original": "Perfect_M1nd",
-        "replacement": "Есть пробитие"
-      }
+      { "original": "3XO_TEPPOPA", "replacement": "Мессенжер MAX" },
+      { "original": "Perfect_M1nd", "replacement": "Олений пенис" }
     ]
   },
   "blocked_users": {
