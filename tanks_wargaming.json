@@ -1289,6 +1289,11 @@
     "short": "AT 2",
     "class": "AT-SPG"
   },
+  "8801": {
+    "level": 5,
+    "short": "O-I Experimental",
+    "class": "heavyTank"
+  },
   "8817": {
     "level": 5,
     "short": "Titan Mk. I",
@@ -1354,6 +1359,11 @@
     "short": "FV215b 183",
     "class": "AT-SPG"
   },
+  "9313": {
+    "level": 9,
+    "short": "Type 4 Heavy",
+    "class": "heavyTank"
+  },
   "9329": {
     "level": 6,
     "short": "Titan-150",
@@ -1384,6 +1394,11 @@
     "short": "AT 8",
     "class": "AT-SPG"
   },
+  "9569": {
+    "level": 7,
+    "short": "O-Ni",
+    "class": "heavyTank"
+  },
   "9601": {
     "level": 7,
     "short": "CS-52 LIS",
@@ -1413,6 +1428,11 @@
     "level": 6,
     "short": "Churchill GC",
     "class": "AT-SPG"
+  },
+  "9825": {
+    "level": 8,
+    "short": "O-Ho",
+    "class": "heavyTank"
   },
   "9841": {
     "level": 6,
@@ -1453,6 +1473,11 @@
     "level": 7,
     "short": "AT 7",
     "class": "AT-SPG"
+  },
+  "10081": {
+    "level": 6,
+    "short": "O-I",
+    "class": "heavyTank"
   },
   "10097": {
     "level": 5,
@@ -1993,6 +2018,12 @@
     "level": 9,
     "short": "T54E1",
     "class": "mediumTank"
+  },
+  "15409": {
+    "level": 8,
+    "short": "ZQ-90",
+    "class": "mediumTank",
+    "testTank": true
   },
   "15441": {
     "level": 8,
@@ -2757,7 +2788,8 @@
   "22129": {
     "level": 10,
     "short": "AC Teichos",
-    "class": "mediumTank"
+    "class": "mediumTank",
+    "testTank": true
   },
   "22145": {
     "level": 8,
@@ -2912,6 +2944,12 @@
     "short": "FV1066 Senlac",
     "class": "lightTank"
   },
+  "23425": {
+    "level": 10,
+    "short": "Zmije",
+    "class": "AT-SPG",
+    "testTank": true
+  },
   "23553": {
     "level": 2,
     "short": "МС-1",
@@ -2972,6 +3010,11 @@
     "short": "GSOR Бесстрашный",
     "class": "AT-SPG"
   },
+  "24177": {
+    "level": 8,
+    "short": "LEY-1 Defender",
+    "class": "lightTank"
+  },
   "24321": {
     "level": 10,
     "short": "Т-100 ЛТ",
@@ -3029,7 +3072,7 @@
   },
   "24945": {
     "level": 8,
-    "short": "AMX 50 100 Titan",
+    "short": "Titan AMX",
     "class": "heavyTank",
     "testTank": true
   },
@@ -3097,6 +3140,11 @@
     "level": 6,
     "short": "Рейнджер",
     "class": "lightTank"
+  },
+  "25937": {
+    "level": 1,
+    "short": "Mark I Male",
+    "class": "heavyTank"
   },
   "26113": {
     "level": 9,
@@ -3218,6 +3266,11 @@
     "short": "TS-60",
     "class": "AT-SPG"
   },
+  "28417": {
+    "level": 8,
+    "short": "КВ-4 КТТС",
+    "class": "AT-SPG"
+  },
   "28433": {
     "level": 9,
     "short": "HWK 12",
@@ -3227,6 +3280,11 @@
     "level": 7,
     "short": "T42",
     "class": "mediumTank"
+  },
+  "28673": {
+    "level": 9,
+    "short": "ИС-8 Taurus",
+    "class": "heavyTank"
   },
   "28689": {
     "level": 10,
