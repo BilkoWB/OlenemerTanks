@@ -2127,7 +2127,8 @@
   "17265": {
     "level": 10,
     "short": "Протей",
-    "class": "AT-SPG"
+    "class": "AT-SPG",
+    "testTank": true
   },
   "17281": {
     "level": 6,
