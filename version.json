@@ -1,11 +1,11 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "download_url": "https://forblitz.ru/modifications/other/olenemer-xvm-extended-visualization-mod/23398",
-  "update_url": "https://raw.githubusercontent.com/Bilko1488/OlenemerTanks/main/Olenemer-2.3.0.exe",
-  "update_sha256": "59098169e3aba776111a66f870d127f580bdaac486927858adc2834bf4d94735",
-  "changelog_ru": "",
-  "changelog_en": "",
-  "changelog_uk": "",
+  "update_url": "https://raw.githubusercontent.com/Bilko1488/OlenemerTanks/main/Olenemer-2.4.0.exe",
+  "update_sha256": "0be186272e07a3b65cef5867bbeb023f3fa4973d20771ea3967cefd75ff10cc2",
+  "changelog_ru": "• Починено под актуальную версию Wargaming (11.20).\n• Добавлен прогресс отметки на стволе для Lesta.",
+  "changelog_en": "• Fixed for the current Wargaming version (11.20).\n• Added gun mark progress for Lesta.",
+  "changelog_uk": "• Виправлено під актуальну версію Wargaming (11.20).\n• Додано прогрес позначки на стволі для Lesta.",
   "nick_replacements": {
     "wg": [
       { "original": "ex_iibris", "replacement": "FloXeR" },
@@ -21,5 +21,5 @@
     "wg": [],
     "lesta": []
   },
-  "released": "2026-08-08T20:03:33Z"
+  "released": "2026-09-06T16:34:11Z"
 }
