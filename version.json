@@ -14,12 +14,23 @@
       { "original": "_DorTep_", "replacement": "Додеп" }
     ],
     "lesta": [
-      { "original": "Perfect_M1nd", "replacement": "Олений пенис" }
+      { "original": "AleshaStrelok228", "replacement": "Олений пенис" }
     ]
   },
   "blocked_users": {
     "wg": [],
     "lesta": []
   },
+  "announcements": [
+    {
+      "id": "blitzinfo",
+      "date": "2026-09-15 15:46",
+      "text_ru": "Планки взятия отметок на все танки, просмотр ттх и бронирования всех танков игры и многое другое на нашем сайте",
+      "button_label_ru": "Наш сайт",
+      "button_label_en": "Наш сайт",
+      "button_label_uk": "Наш сайт",
+      "button_url": "https://blitzinfo.app/"
+    }
+  ],
   "released": "2026-09-06T16:34:11Z"
 }
